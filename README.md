@@ -1,2 +1,2 @@
 # rwkv.onnx
-rwkv onnx convert and test
+Same as https://github.com/tpoisonooo/llama.onnx
